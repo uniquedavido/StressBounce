@@ -1,0 +1,1 @@
+Integrates with the p5.serialport library for P5.js, which communicates with a webSocket server in the P5.js IDE to give access to serial devices attached to your computer
